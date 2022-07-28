@@ -2,7 +2,7 @@
 Install and run the arm package on the ROS system.
 ## install source code
 ```
-git clone https://github.com/khafuq-Developer/arduino_robot_arm.git
+git clone https://github.com/Khafuq/arduino_robot_arm.git
 ```
 ## Dependencies
 run this instruction inside your workspace:
